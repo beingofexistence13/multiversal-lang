@@ -1,0 +1,10 @@
+*.md
+*.rb
+*.rdoc
+contributing
+NEWS
+syntax
+optparse
+rdoc
+regexp
+yjit

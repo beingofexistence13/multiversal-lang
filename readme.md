@@ -20,9 +20,13 @@ Multiversal-Lang is licensed under MIT. We believe in open-source and want to ma
 
 Join us in this exciting journey and let's revolutionize coding together with Multiversal-Lang! Together, we can push the boundaries of what's possible in coding. Let's build a multiverse of code! 🎉🚀
 
-carbon - 
-go - 
-php - 
-rust - 
-ruby - 
-typescrit - 
+Here are the GitHub repositories for the languages:
+
+| Language | GitHub Repository |
+| --- | --- |
+| Carbon | [https://github.com/carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) |
+| Go | [https://github.com/golang/go](https://github.com/golang/go) |
+| PHP | [https://github.com/php/php-src](https://github.com/php/php-src) |
+| Rust | [https://github.com/rust-lang/rust](https://github.com/rust-lang/rust) |
+| Ruby | [https://github.com/ruby/ruby](https://github.com/ruby/ruby) |
+| TypeScript | [https://github.com/microsoft/TypeScript](https://github.com/microsoft/TypeScript) |
