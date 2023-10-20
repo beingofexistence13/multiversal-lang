@@ -1,0 +1,8 @@
+[package]
+name = "rustc_parse_format"
+version = "0.0.0"
+edition = "2021"
+
+[dependencies]
+rustc_lexer = { path = "../rustc_lexer" }
+rustc_index = { path = "../rustc_index", default-features = false }
