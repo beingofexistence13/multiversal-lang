@@ -1,0 +1,24 @@
+{
+  "extends": "./tsconfig.base.json",
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    // "skipLibCheck": true,
+    "allowJs": true
+  },
+  "include": [".", "packages/bun-types/index.d.ts"],
+  "exclude": [
+    "src/test",
+    // "src/js/builtins",
+    "packages",
+    "bench",
+    "examples/*/*",
+    "test",
+    "src/deps",
+    "bun-webkit",
+    "src/bun.js/WebKit",
+    "src/api/demo",
+    "node_modules"
+  ],
+  "files": ["src/js/builtins.d.ts"]
+}

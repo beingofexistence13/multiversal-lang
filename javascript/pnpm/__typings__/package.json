@@ -1,0 +1,8 @@
+{
+  "name": "@pnpm-private/typings",
+  "version": "0.1.2",
+  "private": true,
+  "devDependencies": {
+    "@pnpm-private/typings": "workspace:*"
+  }
+}

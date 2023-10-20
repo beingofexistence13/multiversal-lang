@@ -19,3 +19,10 @@ We believe that everyone has something valuable to contribute. Whether you're fi
 Multiversal-Lang is licensed under MIT. We believe in open-source and want to make our project accessible to developers around the world.
 
 Join us in this exciting journey and let's revolutionize coding together with Multiversal-Lang! Together, we can push the boundaries of what's possible in coding. Let's build a multiverse of code! 🎉🚀
+
+carbon - 
+go - 
+php - 
+rust - 
+ruby - 
+typescrit - 
