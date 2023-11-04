@@ -30,3 +30,4 @@ Here are the GitHub repositories for the languages:
 | Rust | [https://github.com/rust-lang/rust](https://github.com/rust-lang/rust) |
 | Ruby | [https://github.com/ruby/ruby](https://github.com/ruby/ruby) |
 | TypeScript | [https://github.com/microsoft/TypeScript](https://github.com/microsoft/TypeScript) |
+| Zig | [https://github.com/ziglang/zig.git](https://github.com/ziglang/zig.git) |
